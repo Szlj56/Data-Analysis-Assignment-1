@@ -1,2 +1,2 @@
 version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
-3,SM-G998B,1759440978759,2025-10-02_21-36-18,Europe/Amsterdam,android,1.46.0,d651947f-a010-41c9-b775-57587eb6961d,Accelerometer|Gravity|Gyroscope|Annotation|TotalAcceleration,10|10|10||10,true
+3,iPhone 16 Pro Max,1759503461298,2025-10-03_14-57-41,Europe/Amsterdam,ios,1.46,1e218870-8973-4b33-ae82-aacf2ae0995f,Accelerometer|Gravity|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10||10|10,true
